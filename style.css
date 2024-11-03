@@ -3257,7 +3257,7 @@ figcaption {
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     border-radius: 16%;
     background-color: #cf27bf;
     background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
